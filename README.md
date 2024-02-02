@@ -1,16 +1,16 @@
 # othello
 
-the main difficulties we encountered were the implementation of java classes not seen in computer science classes .
-Indeed knowing how to use and link the java classes between them is not easy . Other than that everything was quite simple. Too bad to have started working on the project quite late because of the endless series of tests just before the holidays. 
-I did not have time to add the improved version ofExpert IA with minmax with "alpha-beta" . I think it would have been the hardest part of the project.
+Othello, also known as Reversi, is a two-player strategy board game played on an 8x8 grid.
+
 
 ## Name
 OTHELLO / REVERSI GAME
 
 ## Description
-You can play the othello game with two players, against a  beginner AI or an expert AI
+The goal of Othello is to have the majority of discs of your color facing up when the game concludes. 
+The game ends when the board is full, or when neither player can make a legal move.
 
-mettre les directions dans une arraylist
+Players take turns placing one disc of their color on the board. To make a legal move, a player must place their disc adjacent to an opponent's disc in such a way that it "sandwiches" one or more of the opponent's discs between two of their own. The captured discs then flip to the capturing player's color.
 
 
 ## Authors and acknowledgment
